@@ -66,8 +66,10 @@ To set up and run the application locally, follow these steps:
 
 1. Clone the repository:
 
+```shell
 git clone https://github.com/thangndgit/sapo-mock-project.git
 cd sapo-mock-project
+```
 
 2. Install frontend dependencies:
 
