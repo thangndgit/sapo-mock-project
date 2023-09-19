@@ -1,7 +1,5 @@
 # Motorcycle Repair Shop Management Website
 
-![Logo](https://www.sapo.vn/Themes/Portal/Default/StylesV2/images/logo/Sapo-logo.svg?v=202309190414)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
